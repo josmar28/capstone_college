@@ -44,7 +44,7 @@ if($num_row > 0){
     float: right;
     display: block;
   } 
-}
+}  
 
 @media screen and (max-width: 600px) {
   .topnav.responsive {position: relative;}
