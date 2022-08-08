@@ -43,7 +43,7 @@ if($num_row > 0){
   .topnav a.icon {
     float: right;
     display: block;
-  }
+  } 
 }
 
 @media screen and (max-width: 600px) {
