@@ -1,0 +1,153 @@
+#container {
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+  height: 520px;
+}
+#container h2 {
+  position: absolute; 
+   top: 60px; 
+   left: 0; 
+   width: 100%; 
+   text-align: center;
+   color: white;
+   font-size: 120px;
+   text-transform: uppercase;
+   font-family: impact;
+}
+#container p {
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+   text-align: center;
+   color: white;
+   font-size: 20px;
+   font-family: Arial; 
+}
+#container img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+#container .btn {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border: none;
+  top: 200px;
+  border-radius: 25px;
+  background: black;
+  color: white;
+  font-size: 20px;
+}
+#container #btn2 {
+  position: relative;
+  float: right;
+}
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 3rem;
+  background-color: black;
+  text-align: center;
+}
+.footer .fa {
+  color: orange;
+}
+.footer span {
+  font-size: 20px;
+}
+.footer a {
+  text-decoration: none;
+}
+.text {
+  color: white;
+  font-family: arial;
+  font-size: 25px;
+}
+.align {
+  padding-left: 50px;
+}
+.align span {
+  color: black;
+  font-size: 17px;
+}
+.align .fa-home {
+  color: white;
+  font-size: 30px;
+}
+.align .btn2 {
+  background-color: #f44336;
+  border: none;
+  color: white;
+  border-radius: 2px;
+  padding: 7px 10px;
+  font-size: 15px;
+  text-transform: uppercase;
+  transition: 0.5s;
+}
+.align .btn3 {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  border-radius: 3px;
+  padding: 7px 10px;
+  font-size: 14px;
+  text-transform: uppercase;
+  transition: 0.5s
+}
+.align .btn4 {
+  background-color: #fc14d1;
+  border: none;
+  color: white;
+  border-radius: 2px;
+  padding: 7px 10px;
+  font-size: 14px;
+  text-transform: uppercase;
+  transition: 0.5s
+}
+.align .btn5 {
+  background-color: #fc9714;
+  border: none;
+  color: white;
+  border-radius: 2px;
+  padding: 7px 10px;
+  font-size: 14px;
+  text-transform: uppercase;
+  transition: 0.5s
+}
+.align .btn6 {
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  border-radius: 2px;
+  padding: 7px 10px;
+  font-size: 14px;
+  text-transform: uppercase;
+  transition: 0.5s
+}
+.align .btn2:hover {
+  background-color: #696d72;
+}
+.align .btn3:hover {
+  background-color: #696d72;
+}
+.align .btn4:hover {
+  background-color: #696d72;
+}
+.align .btn5:hover {
+  background-color: #696d72;
+}
+.align .btn6:hover {
+  background-color: #696d72;
+}
+.panel .panelcolor {
+  background-color: #5b5d60;
+  color: white;
+}
+.panel-body td a {
+  text-decoration: none;
+}

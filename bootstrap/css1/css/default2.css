@@ -1,0 +1,69 @@
+#content th {
+	text-align: center;
+	background-color: gray; 
+	color: #fff;
+}
+#content td {
+	text-align: center;
+	height: 50px;
+	width: 50px;
+	font-size: 14px;
+}
+.table-style {
+	background-color: #fff;
+	border: 1px solid #1ab394;	
+}
+#content tr:hover {
+	background-color: #1ab394;
+	color: #fff;
+}
+.new-user{
+	float: right;
+	margin-bottom: 5px;
+}
+.new-user button{
+	color: #797a7c;
+	border: none;
+}
+.new-user button:hover{
+	background-color: #95989b;
+	color: #fff;
+}
+.delete-user{
+	float: right;
+	margin-bottom: 5px;
+	margin-right: 5px;
+}
+.delete-user button{
+	color: #797a7c;
+	border: none;
+}
+.delete-user button:hover{
+	color: #fff;
+	background-color: #95989b;
+}
+.delete-admin{
+	float: right;
+	margin-bottom: 5px;
+	margin-right: 5px;
+}
+.delete-admin button{
+	color: #797a7c;
+	border: none;
+}
+.delete-admin button:hover{
+	color: #fff;
+	background-color: #95989b;
+}
+.delete-account{
+	float: right;
+	margin: 5px 0px;
+}
+.delete-account button{
+	color: #797a7c;
+	border: none;
+}
+.delete-account button:hover{
+	color: #fff;
+	background-color: #95989b;
+}
